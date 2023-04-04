@@ -1,0 +1,6 @@
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/superturkey650/go-qbittorrent v0.0.0-20190708212631-514bc1f1e281 h1:hUsZ02NZpRBU1RqWIfzKPZrmba17U4gTjn9p5wUbM44=
+github.com/superturkey650/go-qbittorrent v0.0.0-20190708212631-514bc1f1e281/go.mod h1:Z574AhXsJeK32AwSYc+dcq0W4sMzHGUcXHNebvWX0wo=
+golang.org/x/net v0.8.0 h1:Zrh2ngAOFYneWTAIAPethzeaQLuHwhuBkuV6ZiRnUaQ=
+golang.org/x/net v0.8.0/go.mod h1:QVkue5JL9kW//ek3r6jTKnTFis1tRmNAW2P1shuFdJc=
