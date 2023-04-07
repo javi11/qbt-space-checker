@@ -23,7 +23,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           goos: ${{ matrix.goos }}
           goarch: ${{ matrix.goarch }}
-          goversion: go1.20.3
           project_path: './'
           binary_name: 'qbt'
           extra_files: README.md
