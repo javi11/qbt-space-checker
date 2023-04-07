@@ -1,0 +1,8 @@
+download_dir: './'
+log_file_path: '.'
+space_margin: 250
+qbittorrent_url: https://qbittorrent.host.com/
+qbittorrent_user: username
+qbittorrent_password: password
+skip_force_resume: true
+autoresume: true
